@@ -1,2 +1,2 @@
 # contator-php
-contagem regressiva em php
+contagem regressiva em php, js e html
