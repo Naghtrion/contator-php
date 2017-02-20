@@ -1,4 +1,5 @@
 index.php
+```html
 <!doctype html>
 <html>
 
@@ -27,8 +28,10 @@ index.php
 </body>
 
 </html> 
- 
+```
+
 contagem.php
+```php
 <?php
 
 // Sua função de cancelar a promoção
@@ -74,3 +77,4 @@ header('Content-Type: application/json');
 
 // Retorna a resposta para a captura da requisição ajax
 echo json_encode($retorno); 
+```
